@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 17pc;
+    margin-right: 17pc;
+    margin-bottom: 10pc;
+    background-color: rgb(2, 163, 238);
+}
+
+h2{
+    font-size: 26px;
+    color: aliceblue;
+    
+}
+
+a{
+    color:rgb(196, 24, 167);
+    
+}
+
+#intro{
+    font-size: 14px;
+    font-family: raleway;
+}
+
+.locations{
+    text-align: left;
+
+}
